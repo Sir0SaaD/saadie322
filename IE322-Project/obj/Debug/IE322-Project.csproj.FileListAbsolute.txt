@@ -1,0 +1,11 @@
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\bin\Debug\IE322-Project.exe
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\bin\Debug\IE322-Project.exe.config
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\obj\Debug\IE322-Project.csproj.AssemblyReference.cache
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\obj\Debug\IE322_Project.Dashboard.resources
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\obj\Debug\IE322_Project.Form1.resources
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\obj\Debug\IE322_Project.Properties.Resources.resources
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\obj\Debug\IE322-Project.csproj.GenerateResource.cache
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\obj\Debug\IE322-Project.csproj.CoreCompileInputs.cache
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\obj\Debug\IE322-Project.exe
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\obj\Debug\IE322-Project.pdb
+C:\Users\sabo7\source\repos\IE322-Project\New folder\IE322-Project\bin\Debug\IE322-Project.pdb
